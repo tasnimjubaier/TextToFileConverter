@@ -1,0 +1,15 @@
+diff a/Program.cs b/Program.cs	(rejected hunks)
+@@ -0,0 +1,13 @@
++﻿using System;
++
++namespace Dummy._1
++{
++    class Program
++    {
++        static void Main(string[] args)
++        {
++            Console.WriteLine("Hello World!");
++            Console.WriteLine("this is a console application");
++        }
++    }
++}

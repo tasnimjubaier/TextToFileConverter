@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "REscQt7dzzUrDQ/akg3y+MaJsIpMCkBoCxI+P4hFPZ0Tm3uBjSGngQvKGXSIEfJinHwpFdEgP9+HD5YAuFEGtw==",
+  "dgSpecHash": "usZtIkOXW/uE0pzeG5GuhTJWHc9t7vKBsxEU3J2fnZMaPk+lLlLF3k4aymGG0grtNadqQoTr9kqk5BDrT+vvKw==",
   "success": true,
-  "projectFilePath": "D:\\Absolute Garbage\\Dummy.1\\Dummy.1.csproj",
+  "projectFilePath": "D:\\Absolute Garbage\\TextToFileConverter\\TextToFileConverter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

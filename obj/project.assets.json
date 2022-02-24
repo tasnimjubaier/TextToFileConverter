@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Absolute Garbage\\Dummy.1\\Dummy.1.csproj",
-      "projectName": "Dummy.1",
-      "projectPath": "D:\\Absolute Garbage\\Dummy.1\\Dummy.1.csproj",
+      "projectUniqueName": "D:\\Absolute Garbage\\TextToFileConverter\\TextToFileConverter.csproj",
+      "projectName": "TextToFileConverter",
+      "projectPath": "D:\\Absolute Garbage\\TextToFileConverter\\TextToFileConverter.csproj",
       "packagesPath": "C:\\Users\\Tasnim Jubaier\\.nuget\\packages\\",
-      "outputPath": "D:\\Absolute Garbage\\Dummy.1\\obj\\",
+      "outputPath": "D:\\Absolute Garbage\\TextToFileConverter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,7 +35,8 @@
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "net5.0": {
@@ -67,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
